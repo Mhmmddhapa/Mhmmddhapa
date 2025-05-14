@@ -1,5 +1,7 @@
 <!-- Banner Contribution GIF -->
-![Mhmmddhapa](img/github-header-image.png)
+<p align="center">
+  <img src="img/github-header-image.png" alt="Banner" width="100%" />
+</p>
 
 <p align="center">
   🚀 Tech Explorer · 🎨 Creative Developer · 🧠 Lifelong Learner
@@ -9,18 +11,15 @@
 
 ### 🔍 About Me
 
-<table>
-  <tr>
-    <td>
-      Hi, I’m Dhapa.  
-      I love coding, debugging, and pretending I understand the error messages.  
-      When I’m not in front of my computer, you can find me drinking coffee and contemplating life’s biggest mysteries — like why semicolons exist in JavaScript.
-    </td>
-    <td>
-      <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="GIF" width="350"/>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  Hi, I’m Dhapa.  
+  I love coding, debugging, and pretending I understand the error messages.  
+  When I’m not in front of my computer, you can find me drinking coffee and contemplating life’s biggest mysteries — like why semicolons exist in JavaScript.
+</p>
+
+<p align="right">
+  <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="GIF" width="400"/>
+</p>
 
 ---
 
@@ -66,8 +65,6 @@
 - 🎧 Coding feels smoother when the beat hits just right.
 
 ---
-
-### 🟡 Pacman Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mhmmddhapa/Mhmmddhapa/output/pacman-contribution-graph-dark.svg">
