@@ -11,7 +11,7 @@
 
 ### 🔍 About Me
 
-<p align="left">
+<p align="center">
   Hi, I’m Dhapa.  
   I love coding, debugging, and pretending I understand the error messages.  
   When I’m not in front of my computer, you can find me drinking coffee and contemplating life’s biggest mysteries — like why semicolons exist in JavaScript.
