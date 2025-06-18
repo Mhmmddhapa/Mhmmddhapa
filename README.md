@@ -1,6 +1,6 @@
 <!-- Banner Contribution GIF -->
 <p align="center">
-  <img src="img/github-header-image.png" alt="Banner" width="100%" />
+  <img src="img/dhapbanner.png" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -39,6 +39,10 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 </p>
 
@@ -52,8 +56,8 @@
 ---
 
 ### 🤝 Let’s Connect!
-- 📬 [Email](mailto:nyxsync.io@gmail.com)  
-- 📸 [Instagram](https://instagram.com/alwayzzselalu)   
+- 📬 [Email](mailto:dhapadev.io@gmail.com)  
+- 📸 [Instagram](https://instagram.com/isdummy)   
 
 ---
 
